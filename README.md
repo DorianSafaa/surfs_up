@@ -6,7 +6,7 @@ The purpose of this analysis is to analyze temperature data for the months of Ju
 
 ## Results: 
 
-Analyzing the weather data and specifically the temperature during June and December in Oaho we found:
+Analyzing the weather data and specifically the temperature during June and December in Oahu we found:
 
 •	75% of June is warm where the temperature is above 73 degrees.
 
@@ -24,4 +24,4 @@ Analyzing the weather data and specifically the temperature during June and Dece
 
 ## Summary:
 
-According to the weather data from last year, opening a surf and ice cream shop in Oaho is a successful project since the temperature is usually high most of the year. Surfers and ice cream lovers will be in high demand all year. Another query can be run to extract precipitation during these months since this is also a major attraction for surfers.  Additionally, the data we analyzed were from the most active weather station in Uaho, which means we can do more analysis from other weather stations to be more certain of our conclusion.
+According to the weather data from last year, opening a surf and ice cream shop in Oahu is a successful project since the temperature is usually high most of the year. Surfers and ice cream lovers will be in high demand all year. Another query can be run to extract precipitation during these months since this is also a major attraction for surfers.  Additionally, the data we analyzed were from the most active weather station in Uaho, which means we can do more analysis from other weather stations to be more certain of our conclusion.
